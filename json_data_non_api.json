@@ -1,0 +1,140 @@
+{
+Var jsonData = [
+   
+    {
+        "q" : "The common element which describe the web page, is ?",
+        "opt1" : "heading",
+        "opt2" : "paragraph",
+        "opt3" : "All of these",
+        "answer" : "All of these"
+    },
+    {
+        "q" : "HTML stands for?",
+        "opt1" : "Hyper Text Markup Language",
+        "opt2" : "High Text Markup Language",
+        "opt3" : "Hyper Tabular Markup Language",
+        "answer" : "Hyper Text Markup Language"
+    },
+    {
+        "q" : "which of the following tag is used to mark a begining of paragraph ?",
+        "opt1" : "TD",
+        "opt2" : "br",
+        "opt3" : "P",
+        "answer" : "P"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+        "opt1" : "LL",
+        "opt2" : "DL",
+        "opt3" : "DD",
+        "answer" : "DL"
+    },
+    {
+        "q" : "Correct HTML tag for the largest heading is _____",
+        "opt1" : "h1",
+        "opt2" : "h6",
+        "opt3" : "heading",
+        "answer" : "h1"
+    },
+     {
+        "q" : "Which of the following are the three most common methods for organizing websites?",
+        "opt1" : "square,rectangle,circular",
+        "opt2" : "hierarchal,linear,random",
+        "opt3" : "under, over, through",
+        "answer" : "hierarchal,linear,random"
+    },
+     {
+        "q" : "Which of the following is not one of the four principles of the Web Content Accessibility Guidelines?",
+        "opt1" : "operable",
+        "opt2" : "perceivable",
+        "opt3" : "appeasable",
+        "answer" : "appeasable"
+    },
+     {
+        "q" : "Which of the following is known as white space?",
+        "opt1" : "the empty screen area around blocks of text and images",
+        "opt2" : "wherever the color white is seen on the page",
+        "opt3" : "the back end of the development",
+        "answer" : "the empty screen area around blocks of text and images"
+    },
+     {
+        "q" : "Which of the following is the design technique used to create pages that stretch to fill the browser window?",
+        "opt1" : "gas",
+        "opt2" : "liquid",
+        "opt3" : "solid",
+        "answer" : "liquid"
+    },
+     {
+        "q" : "Which HTML5 element has the most purpose of providing tangential content?",
+        "opt1" : "onside",
+        "opt2" : "other side",
+        "opt3" : "aside",
+        "answer" : "aside"
+    }
+     ],
+   
+"TF questions":  [     
+     
+    {
+        "q" : "Multiple radio buttions in the same group can be set to a checked state at the same time",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "False"
+    },
+    {
+        "q" : "It is possible to create nested lists (one list inside another) ?",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "True"
+    }, 
+     {
+        "q" : "It's important to design and style websites where users recognize each page as belonging to the same site.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "True"
+    },
+    {
+        "q" : "The two main forms of visual balance are: symmetrical balance and bilateral balance.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "False"
+    }, 
+     {
+        "q" : "HTML and CSS are the two main languages we use to create web pages.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "True"
+    },
+    {
+        "q" : "What you put in the body element of your HTML page is what viewer's see when the page is displayed in a browser.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "True"
+    }, 
+     {
+        "q" : "An attribute tells you something about the element which contains it.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "True"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+       "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "False"
+    }, {
+        "q" : "If one element contains another it is considered to be the guardian of the enclosed element.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "False"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+       "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "False"
+    }
+   
+    ]
+    
+}
